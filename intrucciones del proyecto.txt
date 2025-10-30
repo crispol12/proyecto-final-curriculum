@@ -1,0 +1,59 @@
+<!--Curso intensivo de desarrollo web
+
+Instrucciones para el proyecto final 1: Currículum en línea
+
+Especificaciones del proyecto
+Crea un archivo HTML llamado index.html.
+
+Utiliza la declaración <!DOCTYPE html> al principio del archivo para indicar que se trata de un documento HTML.
+
+Crea una sección <head> que incluya un elemento <title> con el texto "Mi currículum".
+
+Dentro de la sección <body>, escribe el código HTML para crear un currículum en línea que abarque los siguientes aspectos:
+
+Resumen o declaración de objetivos
+
+Formación académica (enumera los títulos, las instituciones y las fechas)
+
+Experiencia laboral (enumera los puestos de trabajo, las empresas, las fechas y las responsabilidades)
+
+Habilidades (enumera las habilidades o áreas de especialización relevantes)
+
+Premios, certificaciones u otros logros (enumera los premios, certificaciones u otros logros relevantes)
+
+Utiliza las etiquetas HTML adecuadas para dar formato al contenido de cada sección, como <h1> para los encabezados de sección y <ul> u <ol> para las listas.
+
+Utiliza etiquetas HTML para añadir una foto de perfil.
+
+Utiliza etiquetas de anclaje relevantes para crear un sitio web de varias páginas, incluyendo otros aspectos de tu currículum como aficiones y datos de contacto.
+
+Añade un pie de página con tu nombre y cualquier información sobre derechos de autor u otros avisos legales. (Sugerencia: consulta la documentación de MDN para lo que no sepas hacer: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer
+
+Guarda el archivo index.html y ábrelo en un navegador web para asegurarte de que se visualiza correctamente.
+
+Añade tu sitio web a GitHub para empezar a crear tu portafolio.
+
+Publica tu sitio web usando GitHub Pages y compártelo aquí (en la sección de Preguntas y Respuestas) con otros estudiantes.
+
+Comenta y haz sugerencias sobre los proyectos de otros estudiantes.
+
+Ejemplo:
+
+https://appbrewery.github.io/capstone-1-example
+
+Requisitos:
+
+Para que el proyecto se mantenga dentro del alcance (tiempo, energía, recursos), solo puedes usar HTML para completarlo. Aunque conozcas CSS y JS (lo cual asumimos que aún no es el caso), se espera que desarrolles el sitio web únicamente con HTML.
+
+Imagina que eres un desarrollador profesional trabajando en este proyecto. Habrá cosas que desconozcas. Cosas que quieres hacer pero que aún no has aprendido. Como desarrollador profesional, necesitas conocer los límites de tus habilidades y buscar información adicional en Google, la documentación de MDN e internet.
+
+Preguntas frecuentes
+1. ¿Puedo usar estos proyectos finales en mis entrevistas de trabajo?
+
+¡Sí! Ese es el objetivo de estos proyectos finales. A diferencia de los proyectos del curso, que incluyen código de solución y tutoriales en vídeo, los proyectos finales están pensados ​​para ser completamente tuyas. Hay más de un millón de estudiantes matriculados en este curso de desarrollo web en todo el mundo. Si añades un proyecto del curso a tu portafolio, es muy probable que el cliente sepa que proviene de este curso. Los proyectos finales, en cambio, no tienen código de solución, tutoriales ni especificaciones de diseño. Son puramente tu creación, por lo que sin duda pueden considerarse como tu propio trabajo e incluirse en tu portafolio.
+
+Cuando contrato desarrolladores, siempre pido un portafolio. Considero que lo que han creado por sí mismos es mucho más importante que la universidad a la que asistieron o si tienen un título en informática. Muchos de mis amigos que son directores ejecutivos en multinacionales y startups coinciden.
+
+2. ¿Qué pasa si no recuerdo cómo hacer algo, aunque haya visto todos los videos?
+
+Ver un video a menudo no basta para aprender una habilidad. Por eso, estos proyectos finales son una gran oportunidad para identificar tus puntos débiles. Mientras desarrollas el proyecto, te encontrarás atascado u olvidando cómo hacer ciertas cosas. ¡Genial! Entonces es el momento de repasar las lecciones anteriores o la documentación en línea para reforzar tus conocimientos.-->
